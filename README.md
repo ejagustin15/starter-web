@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 ## Deployment
 Example
 
-## How to Cantribute
 
+## How to Cantribute
+Example
 
